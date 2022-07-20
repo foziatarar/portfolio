@@ -1,23 +1,5 @@
 @import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
 
-@font-face {
-  font-family: 'orbitronblack';
-  src: url('orbitron-black-webfont.woff2') format('woff2'),
-       url('orbitron-black-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-@font-face {
-  font-family: 'orbitronlight';
-  src: url('orbitron-light-webfont.woff2') format('woff2'),
-       url('orbitron-light-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-/*failed attempt with the fonts lol*/
 
 #gotoTop{
   position:fixed;
