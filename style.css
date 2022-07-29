@@ -1,6 +1,3 @@
-
-
-
 #gotoTop{
   position:fixed;
   bottom:20px;
@@ -370,9 +367,7 @@ body {
     opacity: 1;
 }
 
-.ion-social-twitter,
-.ion-social-linkedin,
-.ion-social-github {
+.fa-brands {
   margin-left: -8px;
   padding: 11px;
 }
